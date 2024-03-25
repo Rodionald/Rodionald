@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodionald&theme=dark)
 <!--
 **Rodionald/Rodionald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
