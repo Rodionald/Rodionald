@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodionald&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rodionald&theme=github_dark)
+[![codewars](https://www.codewars.com/users/rodionald/badges/large)](https://www.codewars.com/users/rodionald)
 
 <!--
 **Rodionald/Rodionald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
