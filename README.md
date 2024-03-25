@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodionald&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodionald&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rodionald&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodionald&theme=github_dark)                              ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rodionald&theme=github_dark)
 
 [![codewars](https://www.codewars.com/users/Rodionald/badges/large)](https://www.codewars.com/users/Rodionald)
 
